@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "coal-powered-plant-in-eemshaven-2022-02-02-05-07-42-utc-min.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
